@@ -51,3 +51,8 @@ function preserveDecimal(n){
   return parseInt(n,10);
 }
 preserveDecimal()
+
+function preserveDecimal(n){
+  return parseInt(sefssgdgs,10);
+}
+preserveDecimal()
