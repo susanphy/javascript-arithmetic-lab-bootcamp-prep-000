@@ -38,6 +38,6 @@ function dec(n){
 dec();
 
 function makeInt(n){
-  return a
+  return parseInt(n);
 }
 makeInt()
