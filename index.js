@@ -40,3 +40,4 @@ dec();
 function makeInt(n){
   return a
 }
+makeInt()
