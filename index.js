@@ -52,7 +52,4 @@ function preserveDecimal(n){
 }
 preserveDecimal()
 
-function preserveDecimal(n){
-  return makeInt(n,10);
-}
-preserveDecimal()
+
