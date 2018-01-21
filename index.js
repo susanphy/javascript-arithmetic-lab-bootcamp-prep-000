@@ -36,3 +36,7 @@ function dec(n){
 }
 
 dec();
+
+function makeInt(n){
+  return a
+}
