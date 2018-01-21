@@ -23,7 +23,7 @@ function multiply(a, b){
 
 multiply();
 function inc(n){
-  return n+;
+  return n+=;
 
 }
 
