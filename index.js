@@ -35,4 +35,4 @@ function dec(n){
 
 }
 
-inc();
+dec();
