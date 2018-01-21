@@ -15,3 +15,10 @@ function subtract(a, b){
 }
 
 subtract();
+
+function multiply(a, b){
+  return a *= b;
+
+}
+
+multiply();
