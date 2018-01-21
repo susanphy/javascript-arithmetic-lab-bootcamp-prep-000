@@ -53,6 +53,6 @@ function preserveDecimal(n){
 preserveDecimal()
 
 function preserveDecimal(n){
-  return parseInt(sefssgdgs,10);
+  return parseInt(NaN,10);
 }
 preserveDecimal()
