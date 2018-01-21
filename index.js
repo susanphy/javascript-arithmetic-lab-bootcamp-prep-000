@@ -48,6 +48,6 @@ function makeInt(n){
 makeInt()
 
 function preserveDecimal(n){
-  return parseInt(n,10);
+  return parseFloast(n,10);
 }
 preserveDecimal()
